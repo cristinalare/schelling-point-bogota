@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/schelling-point-bogota/static/css/main.b8841202.css",
-    "main.js": "/schelling-point-bogota/static/js/main.0f3c9e9a.js",
+    "main.css": "/schelling-point-bogota/static/css/main.1dde4da8.css",
+    "main.js": "/schelling-point-bogota/static/js/main.de662f9e.js",
     "static/media/sp-amsterdam.mp4": "/schelling-point-bogota/static/media/sp-amsterdam.043cae33d34fb493cd2f.mp4",
     "static/media/footer-bg.png": "/schelling-point-bogota/static/media/footer-bg.6f587999b7084c1cdb2b.png",
     "static/media/video-poster.jpeg": "/schelling-point-bogota/static/media/video-poster.7d2c434bbd4ec586fc4f.jpeg",
@@ -13,11 +13,11 @@
     "static/media/divider2.svg": "/schelling-point-bogota/static/media/divider2.d1b9ecf47487b23b7e14bb85e8178ec0.svg",
     "static/media/divider3.svg": "/schelling-point-bogota/static/media/divider3.9d00b056a846a17a5db4109d8f58c035.svg",
     "static/media/divider1.svg": "/schelling-point-bogota/static/media/divider1.19c225a02a66bc6b040fb417b7416ec8.svg",
-    "main.b8841202.css.map": "/schelling-point-bogota/static/css/main.b8841202.css.map",
-    "main.0f3c9e9a.js.map": "/schelling-point-bogota/static/js/main.0f3c9e9a.js.map"
+    "main.1dde4da8.css.map": "/schelling-point-bogota/static/css/main.1dde4da8.css.map",
+    "main.de662f9e.js.map": "/schelling-point-bogota/static/js/main.de662f9e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8841202.css",
-    "static/js/main.0f3c9e9a.js"
+    "static/css/main.1dde4da8.css",
+    "static/js/main.de662f9e.js"
   ]
 }
